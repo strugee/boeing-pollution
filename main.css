@@ -1,6 +1,30 @@
+#top-edge {
+	margin: 0;
+	padding: 0px;
+	height: 10px;
+	width: 100%;
+	background-color: black;
+}
+
+body {
+	margin: 0;
+}
+
 #container {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FCFCFC;
+}
+
+.text {
 	margin: auto;
 	max-width: 750px;
+}
+
+.center-image {
+	margin: auto;
+	text-align: center;
+	max-width: none;
 }
 
 #ccimg {
